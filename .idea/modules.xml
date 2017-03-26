@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TcpClient/TcpClient.iml" filepath="$PROJECT_DIR$/TcpClient/TcpClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/example.iml" filepath="$PROJECT_DIR$/example/example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scala.iml" filepath="$PROJECT_DIR$/scala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tcpServer/tcpServer.iml" filepath="$PROJECT_DIR$/tcpServer/tcpServer.iml" />
+    </modules>
+  </component>
+</project>
